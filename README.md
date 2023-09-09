@@ -8,7 +8,7 @@
 
 <!-- Project Image -->
 <p align="center">
-  <img src="assets/tello_face_tracker.png" alt="Tello Face Tracker" width="500">
+  <img src="assets/drone.png" alt="Tello Face Tracker" width="500">
 </p>
 
 <!-- Features -->
@@ -64,7 +64,7 @@ For more information about the project or any questions, [get in touch].
 
 <!-- Proje Görüntüsü -->
 <p align="center">
-  <img src="assets/tello_face_tracker.png" alt="Tello Face Tracker" width="500">
+  <img src="assets/drone.png" alt="Tello Face Tracker" width="500">
 </p>
 
 <!-- Özellikler -->
