@@ -30,10 +30,7 @@ Using Tello Face Tracker is quite simple. Here are the basic steps:
 2. Run the project: `python main.py`
 3. The drone will start detecting faces through its camera and begin tracking the specified face.
 
-<!-- Installation Guide -->
-## Installation Guide
 
-You can find the necessary steps to use the project in the [Installation Guide](docs/installation_guide.md). This document explains the step-by-step process of setting up the project and installing the required libraries.
 
 <!-- Project Contents -->
 ## Project Contents
@@ -88,10 +85,6 @@ Tello Face Tracker'ı kullanmak oldukça basittir. İşte temel adımlar:
 
 
 
-<!-- Kurulum Kılavuzu -->
-## Kurulum Kılavuzu
-
-Projeyi kullanmak için gereken adımları [Kurulum Kılavuzu](docs/installation_guide.md) belgesinde bulabilirsiniz. Bu belge, projeyi kurma ve gerekli kütüphaneleri yükleme süreçlerini adım adım açıklar.
 
 <!-- Proje İçeriği -->
 ## Proje İçeriği
